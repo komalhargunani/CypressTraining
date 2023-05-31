@@ -1,0 +1,27 @@
+Install nodejs.​
+
+Implement promise or async-await for following​
+
+Exercise-1 :​
+
+Create text file named file.txt​
+
+Read file contents and then print it if file reading is successful. Otherwise, print error if file reading is not successful.​
+
+Exercise-2:​
+
+Install Mysql.​
+
+Create database company.​
+
+Create table employee with columns - id, name and designation.​
+
+Make connection to the database​
+
+If database connection is successful then insert the record into the database.​
+
+Once insert is successful then display all records.​
+
+Update the records into the database and then display updated records.​
+
+Delete all records
