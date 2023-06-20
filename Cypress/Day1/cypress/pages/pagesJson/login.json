@@ -1,0 +1,14 @@
+{
+    "url":"https://hrms.synerzip.in/symfony/web/index.php/auth/login",
+    "loc_username":"#txtUsername",
+    "loc_password":"#txtPassword",
+    "loc_loginBtn":"#btn-login",
+    "username":"komal.hargunani",
+    "password":"Komal@123"
+
+}
+
+
+
+
+
