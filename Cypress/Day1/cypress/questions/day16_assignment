@@ -1,0 +1,13 @@
+Create Page Object Model for  HRMS Login Page​
+
+Write a test login to HRMS application which calls HRMS login Page Object Model.​
+
+Create Page Object Model for  HRMS https://hrms.synerzip.in/symfony/web/index.php/pim/viewPersonalDetails/ page​
+
+Verify personal details​
+
+Edit personal details​
+
+Verify edited personal details​
+
+​
