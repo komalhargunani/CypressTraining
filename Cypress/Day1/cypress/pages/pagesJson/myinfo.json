@@ -1,0 +1,6 @@
+{
+    "myinfolink":"#menu_pim_viewMyDetails > b",
+    "loc_firstname":"#personal_txtEmpFirstName",
+    "loc_enableEdit":"#btnSave",
+    "loc_svbtn": "#btnSave"
+}

@@ -3,11 +3,10 @@
 describe('Exercise5',()=>{
     it('Excercise5', ()=>{
         cy.visit('http://demo.automationtesting.in/JqueryProgressBar.html');
-        cy.get('#downloadButton').click();
+        cy.frameLoaded('#singleframe');
+      //  cy.iframe().find('')
     })
-    it('WaitUntil',()=>{
-            cy.waitUntil(() => cy.get('.progress-label').invoke('text').then((textt) => cy.log(textt)))
-        })
+   
                  
               
         
