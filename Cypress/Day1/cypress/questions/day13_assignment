@@ -1,0 +1,46 @@
+Exercise –1 :​
+
+Access site https://kitchen.applitools.com/ingredients/canvas​
+
+Click on button 'Let's Eat'​
+
+Click on button reset. ​
+
+Exercise –2:​
+
+Access site http://demo.automationtesting.in/Alerts.html​
+
+Click the button to display an alert​
+
+Verify "I am an alert box" is displayed.​
+
+Exercise –3:​
+
+Access site http://demo.automationtesting.in/FileDownload.html​
+
+Enter data in Enter data text box​
+
+Click Generate file​
+
+Click download and verify file is downloaded successfully.​
+
+Exercise –4:​
+
+Access site http://demo.automationtesting.in/FileUpload.html​
+
+Click browse ​
+
+Select file​
+
+Verify file is uploaded successfully.​
+
+Exercise –5 :​
+
+Access site http://demo.automationtesting.in/JqueryProgressBar.html​
+
+Click on start download.​
+
+Wait for progress bar to be completed.​
+​
+
+​

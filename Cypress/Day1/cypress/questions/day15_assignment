@@ -1,0 +1,57 @@
+Exercise 1 - ​
+
+Access http://demo.automationtesting.in/Frames.html​
+
+Type in some text with withing single iFrame and verify text is displayed.​
+
+Type in some text for iFrame within an iframe and verify text is displayed​
+
+​
+
+Exercise 2-​
+
+Access http://demo.automationtesting.in/Register.html​
+
+Make use of fixtures to enter data in registration screen.​
+
+​
+Firstname​
+
+Lastname​
+
+Address​
+
+Email​
+
+Phone​
+
+ABC​
+
+ABC​
+
+Pune​
+
+abc@gmail.com​
+
+1234567789​
+
+XYZ​
+
+XYZ​
+
+Pune​
+
+xyz@gmail.com​
+
+1234567789​
+
+PQR​
+
+PQR​
+
+Pune​
+
+pqr@gmail.com​
+
+1234567789​
+

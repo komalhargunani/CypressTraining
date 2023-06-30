@@ -1,0 +1,19 @@
+Install cypress xpath plugin.​
+
+Automate below using CSS Selector or XPath​
+
+Launch browser and open url - https://www.saucedemo.com/​
+
+Enter text in username textbox as 'standard_user'​
+
+Enter text in password textbox as 'secret_sauce'​
+
+Verify SWAGLABS text is displayed. ​
+
+Click on Sauce Labs Backpack​
+
+Click on 'Add To Cart'​
+
+Click on Shopping cart icon on top right​
+
+Verify the amount displayed for Sauce Labs Backpack
