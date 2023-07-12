@@ -26,17 +26,6 @@ let userId = '';
             }).then(response=>{
                 userId = response.body.id;
                 cy.log("user id" +userId);
-                // cy.request({
-                //     method: 'POST',
-                //     url:'http://coop.apps.symfonycasts.com/api/'+userId+'/chickens-feed',
-                //     headers:{
-                //         'Authorization' : 'Bearer ' +access_token
-                //     }
-
-                // }).then(response=>{
-                //     cy.log(JSON.stringify(response));
-                //     expect(response.status).to.equal(200);
-                // })
                 cy.request({
                     method: 'POST',
                     url:'http://coop.apps.symfonycasts.com/api/'+userId+'/barn-unlock',
